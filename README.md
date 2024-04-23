@@ -2,3 +2,5 @@
 Homework for Module 1 - Excel
 
 This assignment was designed to have us look at a data set of crowdfunding campaigns for analysis and conclusions.
+
+I used pivot tables, pivot charts, and excel formula.
